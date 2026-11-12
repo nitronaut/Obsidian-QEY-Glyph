@@ -1,0 +1,15 @@
+# QEY Glyph Generator - Requirements
+# Python 3.8+ required
+
+# Core dependencies
+Pillow>=9.0.0
+numpy>=1.21.0
+
+# Optional: For GUI (usually included with Python)
+# tkinter
+
+# Optional: For development
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.900
